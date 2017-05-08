@@ -8,7 +8,7 @@ A mini python compiler designed using Lex and Yacc
 * gcc y.tab.c -ll -ly
 * ./a.out [filename]
 
-#### Update 1: On executing the command ./a.out [filename] we will be able to know whether our code is syntactically correct or not.
+#### Update 1: On executing the command ' ./a.out [filename] ' we will be able to know whether our code is syntactically correct or not.
 #### Future enhancements:
 * Symbol Table
 * Intermediate Code Generation
